@@ -12,7 +12,7 @@ import (
 
 func main() {
 	// initialize the db
-	db, err := pg.Open("dbname=gqlgen_sqlc_example_db sslmode=disable")
+	db, err := pg.Open("dbname=txowumysaeefrk:bcbc3b27697cc997f373f5328ae6e3fb80178d2e816175b2d0cb03d3f0af4772@ec2-44-209-186-51.compute-1.amazonaws.com:5432/ddb9oftk5ga1qi sslmode=disable")
 	if err != nil {
 		panic(err)
 	}
