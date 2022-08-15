@@ -3,8 +3,8 @@ package gqlgen
 import (
 	"context"
 
-	"github.com/fwojciec/gqlgen-sqlc-example/dataloaders" // update the username
-	"github.com/fwojciec/gqlgen-sqlc-example/pg"          // update the username
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/dataloaders" // update the username
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/pg"          // update the username
 )
 
 // Resolver connects individual resolvers with the datalayer.

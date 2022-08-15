@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fwojciec/gqlgen-sqlc-example/pg"
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/pg"
 )
 
 // AuthorSliceLoaderConfig captures the config to create a new AuthorSliceLoader

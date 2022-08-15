@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/fwojciec/gqlgen-sqlc-example/dataloaders" // update the username
-	"github.com/fwojciec/gqlgen-sqlc-example/gqlgen"      // update the username
-	"github.com/fwojciec/gqlgen-sqlc-example/pg"          // update the username
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/dataloaders" // update the username
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/gqlgen"      // update the username
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/pg"          // update the username
 )
 
 func main() {

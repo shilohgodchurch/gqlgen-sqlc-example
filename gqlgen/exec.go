@@ -12,7 +12,7 @@ import (
 
 	"github.com/99designs/gqlgen/graphql"
 	"github.com/99designs/gqlgen/graphql/introspection"
-	"github.com/fwojciec/gqlgen-sqlc-example/pg"
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/pg"
 	"github.com/vektah/gqlparser"
 	"github.com/vektah/gqlparser/ast"
 )

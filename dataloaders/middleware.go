@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/fwojciec/gqlgen-sqlc-example/pg" // update the username
+	"github.com/shilohgodchurch/gqlgen-sqlc-example/pg" // update the username
 )
 
 // Middleware stores Loaders as a request-scoped context value.

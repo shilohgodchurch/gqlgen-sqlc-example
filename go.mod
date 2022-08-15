@@ -1,4 +1,4 @@
-module github.com/fwojciec/gqlgen-sqlc-example
+module github.com/shilohgodchurch/gqlgen-sqlc-example
 
 go 1.13
 
